@@ -1,5 +1,9 @@
 bs4
 pandas
-zipfile
+#zipfile
 pathlib
 newsapi
+nltk
+
+#Development
+jupyter
