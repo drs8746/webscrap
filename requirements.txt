@@ -4,6 +4,8 @@ pandas
 pathlib
 newsapi
 nltk
+sklearn
+newsapi-python
 
 #Development
 jupyter
