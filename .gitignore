@@ -111,3 +111,6 @@ dmypy.json
 
 .ipynb_checkpoints/
 env/
+
+data/
+**.exe
